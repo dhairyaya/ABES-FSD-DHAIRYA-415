@@ -1,0 +1,23 @@
+Exercise: Build a 3-Page “College Club” Website (Links, Images, Anchors)
+
+Objective
+
+Practice multi-page navigation, relative links, images with alt text, lists, tables (rowspan/colspan), and in-page anchors—all without CSS.
+
+Deliverables
+
+A folder college-club/ containing:
+
+index.html (Home)
+events.html (Events & schedule table)
+contact.html (Contact page with mailto/tel links)
+images/ (at least 2 images used on pages)
+
+Requirements
+
+1. A navigation bar on every page linking the three pages (use the same snippet).
+2. At least two images with meaningful alt.
+3. One in-page anchor (e.g., “Jump to Upcoming Events”).
+4. One table using thead/tbody and one use of rowspan or colspan.
+5. One external link (opens in new tab via target="_blank").
+6. One mailto: and one tel: link on Contact page.
